@@ -1,5 +1,3 @@
 Marko is a dog
 He spells his name "Marko"
-Help.  This editor is strange.
-
-Change again
+Help.  This editor is strange
